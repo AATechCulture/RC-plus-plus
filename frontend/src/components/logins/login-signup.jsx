@@ -10,7 +10,7 @@ const LoginSignup = () => {
   const navigate = useNavigate(); // Use useNavigate for navigation
 
   const handleLogin = () => {
-    // Check login logic here (e.g., API request to validate user)
+    // Check login logic here
 
     // For this example, let's assume a successful login
     if (email === 'user@example.com' && password === 'password') {
