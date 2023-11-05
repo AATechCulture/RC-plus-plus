@@ -39,6 +39,7 @@ const LoginSignup = () => {
       {/* hide forgot password if not in view */}
       {action === "Sign Up" ? <div></div> : <div className="forgot-password">Forgot Password? <span>Click Here</span></div>}
       <div className="submit-container">
+        {/* Change btn colors with states */}
         <div className={action === "Login" ? "submit gray" : "submit"} onClick={handleLogin}>Login</div>
         <div className={action === "Sign Up" ? "submit gray" : "submit"} onClick={() => setAction("Login")}>Sign Up</div>
       </div>
