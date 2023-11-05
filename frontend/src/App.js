@@ -1,5 +1,6 @@
 import './App.css';
-import LoginSignup from './components/login-signup/login-signup';
+// import LoginSignup from './components/logins/login-signup.jsx';
+import LoginSignup from './components/logins/login-signup';
 
 function App() {
   return (
