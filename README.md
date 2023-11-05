@@ -4,50 +4,52 @@
 This is a repository template containing all the information that needs to accompany your project.
 
 Feel free to use any languages or frameworks, but the following information must be filled out before hacking ends.
-___________
-# Project Name
 
+# Project Name
+CATCH IT........Catch your flight, not your breath.
 ## Challenge Statement(s) Addressed 🎯
 **...include the challenge statement(s) the project worked to address**
-
-Examples:
-* How might we decrease the United States chances of alien and monster attacks given what we know from popular alien and monster movies?
-* How might we make it possible for people in cities not to have to own a car by making car-sharing easier so that the environment will be less damaged and people can save money?
-* How might we ....
+1. How might we minimize the impact of unpredictable travel situations, such as baggage claim delays and long TSA queues, to ensure passengers reach their destinations on time, reducing missed flights and enhancing overall travel experiences?
+2. How might we provide travelers with real-time, personalized solutions and alternative routes during travel disruptions, effectively addressing the challenges posed by unforeseen circumstances and significantly improving customer satisfaction and loyalty in the airline industry?
 
 ## Project Description 🤯
 **....at lease 3 sentences describing what the project does and how it works**
+Catch It is a revolutionary travel app designed to help passengers navigate through unpredictable travel situations, ensuring a stress-free and timely travel experience Feel free to use any languages or frameworks, but the following information must be filled out before hacking ends.
 
 ## Project Value 💰
 **....at lease 3 sentences describing your target customer and tangible benefits from your solution**
-
+Catch It" web app offers a revolutionary solution to improve the travel experience for both passengers and airlines. Passengers benefit from reduced stress, improved travel planning, and real-time updates during disruptions, leading to higher satisfaction and reduced missed flights. Airlines gain operational efficiency, competitive advantages, and data insights, enhancing customer service and potentially reducing costs associated with delays and missed connections.
 
 ## Tech Overview 💻
 **... what tech was used to bring this project to life?**
-
-Example:
-* FastAPI
-* Hugging Face AI Models
-* Next.js
+Next.js 
+React 
+Python 
+CSS 
+HTML
 
 
 ### ✨ Contributors ✨
 **...tell the world who you and your team are 🙂**
-* Team member X (AAdvantage No)
-* Team member Y (AAdvantage No)
-* Team member Z (AAdvantage No)
+Joseph Musenge 
+Micah Gholson 
+Ogenna Obiora 
+Danelle Jones 
+Dajun Chew
 
 ### School Name 🏫
-The ABC School
+Rust College
 
 ### Team Name 🏷
-Coding Costars
+RC++
 
 ### Link to Video Pitch 📹
 **...point us to where you tell us about your solution 😄**
+https://www.canva.com/design/DAFzT_kbaqk/-cvm9HPQhgLK24uUGWjVXg/view?utm_content=DAFzT_kbaqk&utm_campaign=designshare&utm_medium=link&utm_source=recording_view
 
 ### Link to Demo Presentation 📽
 **...point us to your PPT or Canva slides 😍**
+https://www.canva.com/design/DAFzT_kbaqk/vWvEjF0ZinfwME_jbpqvQw/edit?utm_content=DAFzT_kbaqk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ### Team Checklist due before 5p Saturday 11/4 ✅
 - [ ] Team photo
